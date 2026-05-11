@@ -29,6 +29,18 @@ status: learning...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
+<br clear="both">
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+</div>
+
 ###
 
 <div align="left">
@@ -54,15 +66,15 @@ status: learning...
 ### 👩🏻‍💻 Sobre mim
 
 - 🎓 Estudante de **Técnica em Informática**.
-- 🚀 Foco em desenvolvimento web .
+- 🚀 Foco em desenvolvimento web e automação.
 - 💡 Gosto de transformar ideias em projetos úteis e criativos.
-- 🐍 Atualmente aprimorando conhecimentos.
+- 🐍 Atualmente aprimorando conhecimentos em **Python** e lógica.
 
 ### 💻 Tecnologias
-`HTML` • `CSS` • `Python` 
+`HTML` • `CSS` • `Python` • `Git` • `GitHub`
 
 ---
 
 <p align="center">
-  <i>" in progress ☕"</i>
+  <i>"Software dev in progress ☕"</i>
 </p>
