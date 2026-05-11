@@ -49,9 +49,9 @@ status: learning...
 ### 👩🏻‍💻 Sobre mim
 
 - 🎓 Estudante de **Técnica em Informática**.
-- 🚀 Foco em desenvolvimento web e automação.
+- 🚀 Foco em desenvolvimento.
 - 💡 Gosto de transformar ideias em projetos úteis e criativos.
-- 🐍 Atualmente aprimorando conhecimentos em **Python** e lógica.
+- 🐍 Atualmente aprimorando conhecimentos .
 
 ### 💻 Tecnologias
 `HTML` • `CSS` • `Python` • `Git` • `GitHub`
@@ -59,5 +59,5 @@ status: learning...
 ---
 
 <p align="center">
-  <i>"Software dev in progress ☕"</i>
+  <i>"in progress ☕"</i>
 </p>
