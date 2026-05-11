@@ -11,8 +11,7 @@ status: learning...
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasmimDuarte1&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimDuarte1&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/YasmimDuarte1/YasmimDuarte1/stats-output/stats.svg" height="170" alt="stats graph" />
 </div>
 
 ###
