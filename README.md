@@ -11,7 +11,6 @@ status: learning...
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YasmimDuarte1/YasmimDuarte1/stats-output/stats.svg" height="170" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/YasmimDuarte1/YasmimDuarte1/languages-output/languages.svg" height="170" alt="languages graph" />
 </div>
 
